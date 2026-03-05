@@ -6,10 +6,8 @@ Real ML sentiment analysis dashboard. Not LLM-wrapped — actual transformer mod
 ![Preview](2.png)
 ![Preview](3.png)
 
-
-
 ---
-FRONTEND_URL = 
+FRONTEND_URL = https://sentimentiq-1.onrender.com
 
 
 ## Models Used
